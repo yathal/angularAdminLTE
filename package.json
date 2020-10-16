@@ -16,7 +16,7 @@
  },
   "private": true,
   "dependencies": {
-    "express": "~4.16.0",
+    "express": "~4.17.1",
      "express-session": "^1.16.1",
     "@angular/animations": "~9.0.7",
     "@angular/common": "~9.0.7",
