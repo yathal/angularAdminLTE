@@ -1,4 +1,4 @@
-Introduction
+Introdução
 ============
 
 This is the **Angular** version of **AdminLTE** -- what is a fully responsive administration template. Based on **[Bootstrap 4](https://getbootstrap.com)** framework.
