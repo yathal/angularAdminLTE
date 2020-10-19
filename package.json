@@ -10,12 +10,12 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
-   "engines": {
-   "node": "10.13.0",
-   "npm": "6.4.1"
- },
+  "engines": {
+    "node": "10.13.0",
+    "npm": "6.4.1"
+  },
   "private": true,
-  "dependencies": {    
+  "dependencies": {
     "@angular/animations": "~9.0.7",
     "@angular/common": "~9.0.7",
     "@angular/compiler": "~9.0.7",
@@ -26,6 +26,7 @@
     "@angular/router": "~9.0.7",
     "@fortawesome/fontawesome-free": "^5.12.1",
     "admin-lte": "^3.0.1",
+    "express": "^4.17.1",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
